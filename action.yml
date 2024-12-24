@@ -147,7 +147,7 @@ inputs:
   openai_base_url:
     required: false
     description: 'The url of the openai api interface.'
-    default: 'http://127.0.0.1:12345/v1'
+    default: 'https://api.sambanova.ai/v1'
   openai_light_model:
     required: false
     description:
